@@ -1,3 +1,0 @@
-buster.py generate --domain=http://localhost:2368
-fart -i -r "C:\Users\NatashaTheodora\Documents\GitHub\blog\static\*.html" http://localhost:2368 http://blog.natashapetrus.com
-buster.py deploy

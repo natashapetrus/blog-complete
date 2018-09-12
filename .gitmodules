@@ -1,6 +1,0 @@
-[submodule "static"]
-	path = static
-	url = https://github.com/natashapetrus/blog
-[submodule "_site"]
-	path = _site
-	url = https://github.com/natashapetrus/blog
